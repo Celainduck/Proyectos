@@ -1,6 +1,6 @@
-# Mis Proyectos de Programación 🚀
+# Mis Proyectos de Programación 👾
 
-¡Hola! Soy Celina, estudiante de 2° año de **Ciencias de la Computación (UBA)** y **Técnica en Programación**. En este repositorio agrupo mis trabajos académicos y proyectos personales para documentar mi aprendizaje.
+¡Hola! Soy Celina🌻, estudiante de 2° año de **Ciencias de la Computación (UBA)** y **Técnica en Programación**. En este repositorio agrupo mis trabajos académicos y proyectos personales para documentar mi aprendizaje.
 
 ## 📁 Proyectos Destacados
 
@@ -14,8 +14,8 @@ Lógica de matrices y algoritmos de recursividad para la expansión de celdas. *
 ---
 
 ## 🛠️ Sobre mí
-* **Formación:** Estudiante en la Facultad de Ciencias Exactas y Naturales (UBA).
-* **Experiencia:** Pasantía técnica en **Cotesma** (2022).
-* **Idiomas:** Inglés Avanzado (C1).
+* **✏️ Formación:** Estudiante en la Facultad de Ciencias Exactas y Naturales (UBA).
+* **💻​Experiencia:** Pasantía técnica en **Cotesma** (2022).
+* **🤖​Idiomas:** Inglés Avanzado (C1).
 
 📫 Contacto celinaburunov@gmail.com
