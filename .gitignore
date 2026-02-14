@@ -1,0 +1,22 @@
+# Java - Archivos compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Python - Archivos temporales y de entorno
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# IDEs (VS Code, IntelliJ)
+.vscode/
+.idea/
+*.iml
+
+# Archivos de sistema
+DS_Store
+Thumbs.db
