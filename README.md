@@ -8,7 +8,7 @@
 Sistema de gestión de recordatorios con lógica de **estructuras de datos propias**.
 * **Highlights:** Implementación de arreglos redimensionables y manejo defensivo de memoria (aliasing).
 
-### # 💣 Buscaminas Next.js
+### 💣 [Buscaminas (TypeScript)](./buscaminas-next)
 
 Proyecto desarrollado para la facultad para practicar el manejo de estados complejos y recursión.
 
