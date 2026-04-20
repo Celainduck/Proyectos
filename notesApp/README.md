@@ -1,6 +1,17 @@
-# Notes Application - Full Stack Challenge 😀​
+# Notes Application 📝
 
-This is a full-stack SPA note-taking application developed using React and NestJS, satisfying all the requirements of Phase 1 and Phase 2.
+This is a complete, full-stack Single Page Application (SPA) for note-taking, developed using React and NestJS. It allows you to create, manage, archive, and categorize your notes efficiently.
+
+🌐 **Live Demo:** [https://mis-notas-seven.vercel.app/](https://mis-notas-seven.vercel.app/)
+
+## Features ✨
+
+- **Note Management:** Create, edit, delete, and list notes.
+- **Archiving System:** Archive/Unarchive notes and view archived notes in a dedicated section.
+- **Categorization:** Add and remove categories to your notes.
+- **Filtering:** Quickly filter notes by categories using visual tags.
+- **Persistence:** Reliable database storage using TypeORM and SQLite.
+- **Architecture:** Robust backend built with a layered architecture (Controllers, Services, Repositories).
 
 ## Technologies Used ​🤖​
 
@@ -11,16 +22,15 @@ This is a full-stack SPA note-taking application developed using React and NestJ
 
 ## Requirements 🔧​
 
-To run this application, you need the following installed:
+To run this application locally, you need the following installed:
 
 - **Node.js:** >= 18.x
 - **npm:** >= 9.x
 - **Git** (for version control)
-- **Linux/macOS** environment is recommended to run the provided start script. (Windows users can use Git Bash or WSL).
 
-## How to Run ​🔍​
+## How to Run Locally ​🔍​
 
-A bash script is provided to automatically install all dependencies and start both the backend and frontend concurrently.
+A bash script is provided to automatically install all dependencies and start both the backend and frontend concurrently (recommended for Linux/macOS or Git Bash/WSL on Windows).
 
 1. Open your terminal in the project's root folder.
 2. Ensure the script is executable:
@@ -39,16 +49,3 @@ The script will start:
 Alternatively, you can run them manually in separate terminal windows:
 - **Backend:** `cd backend && npm install && npm run start:dev`
 - **Frontend:** `cd frontend && npm install && npm run dev`
-
-## Features Implemented
-
-- **Phase 1 (Mandatory):**
-  - Create, edit, delete, and list notes.
-  - Archive/Unarchive notes and list archived notes separately.
-  - Database persistence using TypeORM and SQLite.
-  - Layered architecture on the backend (Controllers, Services, Repositories).
-  - Single Page Application (SPA) structure.
-
-- **Phase 2 (Extra):**
-  - Add/remove categories to notes.
-  - Filter notes by categories visually.
