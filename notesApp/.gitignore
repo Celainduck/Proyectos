@@ -1,0 +1,13 @@
+# Dependencias
+node_modules/
+dist/
+build/
+
+# Variables de entorno (Seguridad)
+.env
+.env.local
+
+# Archivos de sistema y logs
+npm-debug.log*
+yarn-error.log*
+.DS_Store

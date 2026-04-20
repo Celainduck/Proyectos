@@ -1,0 +1,61 @@
+:root {
+  --font-family: 'Outfit', system-ui, sans-serif;
+
+  /* Cute color palette */
+  --bg-gradient-start: #ffadd2;
+  --bg-gradient-end: #ffcba4;
+  --bg-gradient-accent: #ffe8e8;
+
+  --text-primary: #333333;
+  --text-secondary: #666666;
+
+  --primary-color: #ff7e67;
+  --primary-hover: #ff6b52;
+  --secondary-color: #ff8cbe;
+
+  --glass-bg: rgba(255, 255, 255, 0.65);
+  --glass-border: rgba(255, 255, 255, 0.8);
+  --glass-shadow: 0 16px 40px 0 rgba(255, 126, 103, 0.25);
+
+  --border-radius-lg: 20px;
+  --border-radius-md: 12px;
+  --border-radius-sm: 8px;
+  --border-radius-pill: 50px;
+
+  --danger: #ff4d4f;
+  --danger-hover: #ff7875;
+  --success: #52c41a;
+
+  --transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-family);
+  color: var(--text-primary);
+  background: linear-gradient(135deg, var(--bg-gradient-start) 0%, var(--bg-gradient-end) 50%, var(--bg-gradient-accent) 100%);
+  background-attachment: fixed;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+button {
+  font-family: var(--font-family);
+  border: none;
+  cursor: pointer;
+  outline: none;
+}

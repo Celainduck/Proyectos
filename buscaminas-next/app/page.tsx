@@ -203,7 +203,7 @@ export default function BuscaminasPage() {
                   </span>
                 )
               ) : (
-                cell.isFlagged ? <span className="animate-in fade-in zoom-in">🚩</span> : ''
+                cell.isFlagged ? <span className="animate-in fade-in zoom-in">🏴‍☠️​</span> : ''
               )}
             </div>
           ))
