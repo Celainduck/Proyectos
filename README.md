@@ -1,8 +1,29 @@
 # Mis Proyectos de Programación 👾
 
-¡Hola! Soy Celina🌻, estudiante de 2° año de **Ciencias de la Computación (UBA)** y **Técnica en Programación**. En este repositorio están incluidos mis trabajos académicos y proyectos personales.
+¡Hola! Soy Celina🌻, estudiante de 3° año de **Ciencias de la Computación (UBA)** y **Técnica en Programación**. En este repositorio están incluidos mis trabajos académicos y proyectos personales.
 
 ## 📁 Proyectos Destacados
+
+
+### 📝 [Notes App (React/TypeScript)](/Celainduck/Proyectos/tree/main/notes-app)
+
+Aplicación funcional para la creación y organización de notas personales, enfocada en una experiencia de usuario fluida y persistencia de datos.
+
+* **Highlights:** Arquitectura de backend en capas (Controladores, Servicios, Repositorios), relación de base de datos de "Muchos a Muchos", filtrado dinámico por categorías y un diseño UI moderno.
+
+#### 🛠️ Tecnologías utilizadas
+* **Fontend:** React.js con Vite, Axios.
+* * **Backend:** NestJS, TypeORM, SQLite3.
+* **Lenguajes:** TypeScript (Backend) y JavaScript (Frontend).
+* **Estilos:** CSS puro (Enfoque en diseño Glassmorphism y animaciones suaves).
+
+
+#### 🕹️ Funcionalidades
+* Creación, edición, archivado y eliminación de notas (CRUD).
+* Sistema de etiquetas o categorías para una mejor organización.
+* Filtrado en tiempo real de notas por sus categorías
+* Comunicación fluida mediante API REST.
+* Persistencia real en base de datos relacional (evitando pérdida de información).
 
 ### 🗓️ [Agenda Manager (Java)](./JavaAgendaManager)
 Sistema de gestión de recordatorios con lógica de **estructuras de datos propias**.
