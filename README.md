@@ -5,7 +5,7 @@
 ## 📁 Proyectos Destacados
 
 
-### 📝 [Notes App (React/TypeScript)](/Celainduck/Proyectos/tree/main/notes-app)
+### 📝 [Notes App (React/TypeScript)](./notesApp)
 
 Aplicación funcional para la creación y organización de notas personales, enfocada en una experiencia de usuario fluida y persistencia de datos.
 
